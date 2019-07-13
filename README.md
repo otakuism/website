@@ -14,6 +14,7 @@
 
 ## 资料
 
+- [aniDB](https://anidb.net/)
 - [Bangumi 番组计划](https://bangumi.tv/)
 - [萌否](http://moefou.org/)
 - <http://lolily.com/>
